@@ -63,7 +63,7 @@ Todos los datos se guardan automáticamente y se mantienen al cerrar y volver a 
 
 3. Clona el repositorio desde GitHub:
 
-   git clone 
+   git clone https://github.com/Zanaborio21/GestorGastos.git
 
 4. Entra a la carpeta del proyecto:
 
